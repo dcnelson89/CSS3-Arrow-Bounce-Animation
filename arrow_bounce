@@ -1,8 +1,8 @@
-            ###################################################
-            #                                                 #
-            #               Global CSS Styling                #
-            #                                                 #
-            ###################################################
+###################################################
+#                                                 #
+#               Global CSS Styling                #
+#                                                 #
+###################################################
             
 .arrow {
         /* Change these to style the arrow */
@@ -16,20 +16,20 @@
 
 
 
-            ###################################################
-            #                                                 #
-            #                   HTML Module                   #
-            #                                                 #
-            ###################################################
+###################################################
+#                                                 #
+#                   HTML Module                   #
+#                                                 #
+###################################################
             
-            <!-- ARROW -->
+<!-- ARROW -->
             
-            <a data-req="anchor" href="#ANCHOR_LINK">
-            <div class="arrow animated bounce">
-            <span class="iconfont" data-verified="redactor"></span>
-            </div></a>
+<a data-req="anchor" href="#ANCHOR_LINK">
+<div class="arrow animated bounce">
+<span class="iconfont" data-verified="redactor"></span>
+</div></a>
             
                         
-            <!-- ANCHOR LINK CODE -->
-            
-            <a name="#ANCHOR_LINK"></a>
+<!-- ANCHOR LINK CODE -->
+
+<a name="#ANCHOR_LINK"></a>
